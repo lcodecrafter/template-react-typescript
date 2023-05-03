@@ -1,5 +1,5 @@
 {
-  "name": "Basic template React + Typescript + Linters",
+  "name": "template-vite-react-typescript-linters",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "6.7.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
